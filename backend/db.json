@@ -1,0 +1,42 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Casa"
+      },
+      {
+        "id": 2,
+        "titulo": "Diversão"
+      },
+      {
+        "id": 3,
+        "titulo": "Trabalho"
+      }
+    ],
+  "notas": [
+    {
+      "id": 1,
+      "titulo": "Lavar o cachorro 🦮",
+      "conteudo": "Pegar o shampoo > pegar a toalha",
+      "tema": "warning"
+    },
+    {
+      "id": 2,
+      "titulo": "Planejar as Aulas de Angular",
+      "conteudo": "Pesquisar material",
+      "tema": "info"
+    },
+    {
+      "id": 3,
+      "titulo": "Atualizar Aplicações Angular",
+      "conteudo": "Preparar projetos para as aulas",
+      "tema": "danger"
+    },
+    {
+      "id": 4,
+      "titulo": "Lavar o irmão do cachorro 🦮",
+      "conteudo": "12321312321",
+      "tema": "danger"
+    }
+  ]
+}
